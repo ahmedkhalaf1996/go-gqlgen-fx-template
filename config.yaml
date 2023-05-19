@@ -1,0 +1,16 @@
+db:
+  host: 127.0.0.1
+  port: 5432
+  user: root
+  password: secret
+  database: meetmeup_dev
+server:
+  host: 0.0.0.0
+
+JWT_SECRET: secret
+# postgresql
+# postgres
+
+	# // User:     "root",
+	# // Password: "secret",
+	# // Database: "meetmeup_dev",
